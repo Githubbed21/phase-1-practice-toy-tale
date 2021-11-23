@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 10
     },
     {
       "id": 3,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Dean",
+      "image": "https://38bknn3783pe2rhfsv2vj879-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Veggie_16oz.png",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Dean 2.0",
+      "image": "https://38bknn3783pe2rhfsv2vj879-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Veggie_16oz.png",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Dean 3.0",
+      "image": "https://38bknn3783pe2rhfsv2vj879-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Veggie_16oz.png",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Dean 4.0",
+      "image": "https://38bknn3783pe2rhfsv2vj879-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Veggie_16oz.png",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
